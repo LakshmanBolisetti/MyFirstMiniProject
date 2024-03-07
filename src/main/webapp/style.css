@@ -1,0 +1,200 @@
+*{
+    margin:0px;
+    padding:0px;
+}
+.topheader{
+    height: 32px;
+    font-size: 18px;
+    background-color: gray;
+    padding: 8px;
+    
+    
+}
+.left{
+    float: left;
+}
+.right{
+    float:right;
+}
+.header{
+    height: 70px;
+    font-size: 22px;
+    
+}
+.row{
+    width:100%;
+    padding:10px;
+}
+.header img{
+    width: 90px;
+    height: 50px;
+    
+   
+}
+.header1{
+    width:7%;
+    float:left ;
+    margin-left: 15px;
+     
+}
+.header2{
+    width:50%;
+    float:left;
+    padding: 10px;
+     color:green;
+     
+}
+.login{
+    text-decoration: none;
+    color: white;
+
+}
+.header3{
+    width:10%;
+    float:right; 
+    background-color: green;
+    text-align: center;
+    padding: 10px;
+    margin-right: 50px;
+    border-radius: 20px;
+    
+}
+.header3:hover{
+    background-color: red;
+}
+.menubar{
+    height: 45px;
+    font-size: 22px;
+    background-color: lightgray;
+}
+.menubar ul{
+    width: 100%;
+    list-style-type: none;
+
+}
+.menubar ul li{
+    float: left;
+    
+   
+}
+.menubar ul li a{
+    display: block;
+    text-decoration: none;
+    color: black;
+    font-size: 18px;
+    padding:10px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    padding-left: 55px;
+    padding-right: 55px;
+}
+.menubar ul li:hover{
+    background-color: red;
+}
+.body{
+    height:auto;
+    font-size: 22px;
+    overflow: hidden;
+    background: linear-gradient(rgba(0,0,0,0.75),rgba(0,0,0,0.75)),url(IMG_0656.jpg);
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    
+    
+  
+}
+.sectitle{
+    text-align: center;
+    color: red;
+    font-weight: normal;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif ;
+}
+.courses{
+    width: 80%;
+    margin: 0 auto auto;
+}
+.coursesdiv{
+    width: 20%;
+    box-shadow: 3px 6px red;
+    height: 350px;
+    border-radius: 10px;
+    float: left;
+    margin: 25px 30px;
+    text-align: center;
+    margin-top: 10px;
+}
+.coursesdiv img{
+    width: 100%;
+    height: 250px;
+    border-radius: 10px;
+    
+}
+.coursesdiv a{
+    text-decoration: none;
+    font-size: 30px;
+    color:white;
+    padding: 10px;
+    display: block;
+    border-radius: 10px;
+}
+
+.enroll{
+    background-color: green;
+    color: white;
+    text-align: center;
+    width: 200px;
+    padding: 10px;
+    border-radius: 10px;
+    
+}
+.enroll:hover{
+    background-color: indigo;
+}
+.success img{
+    width: 300px;
+    height: 500px;
+    margin-right: 30px;
+    border-radius: 20px;
+}
+.about{
+    width: 80%;
+    margin: 0 auto auto;
+    text-align: center;
+}
+.footer{
+    height: 300px;
+    width: 100%;
+    font-size: 22px;
+    background-color: rgb(0, 0, 0);
+    color: yellow;
+    padding: 30px;
+   
+}
+.part20{
+      width: 20%;
+      float: left;
+      font-size: 20px;
+      margin-right: 50px;
+}
+.part20 a{
+    text-decoration: none;
+    color:white;
+}
+.part40{
+    width: 40%;
+    float: left;
+}
+.footerform{
+    width: 400px;
+}
+.btn{
+    background-color: gray;
+    color: white;
+}
+.loginform{
+    width: 20%;
+    margin: 0 auto auto;
+    margin-bottom: 100px;
+    text-align: center;
+
+}
