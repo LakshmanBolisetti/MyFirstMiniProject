@@ -100,7 +100,7 @@
 
         </div>
         <div class="coursesdiv">
-            <img src="twlve.jpg"/>
+            <img src="twlve.JPG"/>
              <br/>
              <a href="#">Twelth Month</a>    
 
